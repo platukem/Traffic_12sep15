@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Traffic</string>
+
+
+    <string name="head">จราจร</string>
+
+
+
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
